@@ -1,0 +1,3 @@
+First I downloaded US GDP, CPI, and Unempoyment rate from FRED
+Then I pasted those csvs into chatgpt and said: Convert these CSV files into one, 
+and use pandas to fill missing values with the column means

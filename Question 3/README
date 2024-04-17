@@ -1,0 +1,5 @@
+First I downloaded Canada and the United States GDP data from FRED
+Then I pasted in the code into chat gpt and said 
+(a) Create a line plot for Canada and US GDP growth over the last decade using seaborn.
+(b) Calculate and display the mean, median, and standard deviation of GDP
+growth rates.
